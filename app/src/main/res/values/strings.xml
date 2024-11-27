@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoEventTestTask</string>
+    <string name="permission_error">Permission denied</string>
+    <string name="no_date">No date</string>
+    <string name="filter_by_type">Filter by type</string>
+    <string name="filter_by_date">Filter by date</string>
+    <string name="filter_by_distance">Filter by distance (in meters)</string>
+    <string name="no_events">No events</string>
+    <string name="name">Name:</string>
+    <string name="description">Description:</string>
+    <string name="time">Date and time:</string>
+    <string name="location">Location:</string>
+    <string name="add_to_calendar">Add to Calendar</string>
+    <string name="details">Details</string>
+</resources>
